@@ -139,54 +139,54 @@ const Contact = () => {
           <h2 className="text-2xl font-medium">Contact Info</h2>
           <div className="flex items-center my-6">
             <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaUserAlt>
-            <h3 className="font-medium text-primary">Yuki Amano</h3>
+            <h3 className="font-medium text-primary"> Andres Romero</h3>
           </div>
           <div className="flex items-center my-6">
             <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
-            <h3 className="font-medium text-primary">+81 230336374</h3>
+            <h3 className="font-medium text-primary">+5493884335452</h3>
           </div>
           <div className="flex items-center my-6">
             <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
-            <h3 className="font-medium text-primary">yukiamano221@gmail.com</h3>
+            <h3 className="font-medium text-primary">goldmaster631026221@gmail.com</h3>
           </div>
-          <div className="flex items-center my-6">
+          {/* <div className="flex items-center my-6">
             <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>
 
             <h3 className="font-medium text-primary">
               Canada, Montréal-Est
             </h3>
-          </div>
+          </div> */}
           <div className="mt-8 flex items-center">
-            <h3 className="text-xl text-neutral">Social</h3>
+            {/* <h3 className="text-xl text-neutral">Social</h3> */}
             <div className="bg-gray-400 w-10 h-[2px] mx-4"></div>
-            <a
-              href="https://linkedin.com/in/gilberthutapea"
+            {/* <a
+              href=""
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaLinkedin></FaLinkedin>
-            </a>
+            </a> */}
             <a
-              href="https://www.github.com/berthutapea"
+              href="https://github.com/GoldMaster631026221"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaGithubSquare></FaGithubSquare>
             </a>
-            <a
+            {/* <a
               href="https://twitter.com/GilbertHutapeaa"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaTwitterSquare></FaTwitterSquare>
-            </a>
-            <a
+            </a> */}
+            {/* <a
               href="https://www.instagram.com/bethup97/"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaInstagramSquare></FaInstagramSquare>
-            </a>
+            </a> */}
           </div>
         </motion.div>
       </div>

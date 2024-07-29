@@ -36,10 +36,10 @@ const About = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
-              alt="Gilbert Hutapea"
-              className="p-12 w-70 h-70 transform translate-y-[-12%]"
-              title="Gilbert Hutapea"
+              src="1.jpeg" 
+              alt="Andres Romero"
+              className="p-12 w-[80%] h-50 transform translate-y-[-12%]"
+              title="Andres Romero"
             />
 
           </motion.div>
@@ -52,7 +52,7 @@ const About = () => {
               transition: { duration: 1, delay: 1.25 },
             }}
           >
-            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Gilbert Hutapea</h1>
+            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Andres Romero</h1>
             <div className="my-8">
               <TypeAnimation
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
@@ -76,8 +76,12 @@ const About = () => {
               React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
               create scalable and robust web applications.
 
-              I have over 3 years of experience in the industry and offer a variety of services, 
-              including Unity Education / game development, web development, and mobile app development.
+              I've worked as a Senior blockchain developer with 5 years of experience in React, Next.js, MongoDB, Web3, Solidity and Smart Contract.
+              I've developed many dApps, NFT market places, and games with blockchain.
+              I will show you some of my past and current projects to you.
+              I would be happier if you work with me, and I will start your project right now.
+              hanks in advance.
+
               {/* Dedicated Front-end developer. Capable to solve working problems.
               Passionate about learning & development to reach the target. Eager
               to tackle more complex problems and continue to find ways to
@@ -93,20 +97,20 @@ const About = () => {
             </p>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-12 gap-y-4 mt-4 text-center translate-y-[-50%] sm:translate-y-[-0%] sm:mb-2 md:text-left ">
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Name : </span>Yuki Amano
+                <span className="mr-2 text-primary">Name : </span> Andres Romero
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Phone : </span>+62 823 6148 4992
+                <span className="mr-2 text-primary">Phone : </span>+5493884335452
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
-                yukiamano221@gmail.com
+                goldmaster631026221@gmail.com
               </h2>
-              <h2 className="font-medium">
+              {/* <h2 className="font-medium">
                 <span className="mr-2 text-primary">Address : </span>Canada , Montréal-Est
-              </h2>
+              </h2> */}
               <a
-                href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                href=""
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

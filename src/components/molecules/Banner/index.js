@@ -26,7 +26,7 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hello, I'm </h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Yuki Amano</h1>
+        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Andres Romero</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
@@ -34,9 +34,9 @@ const Banner = () => {
             sequence={[
               "A Mern-stack Developer",
               2019,
-              "A Full-stack Developer",
+              "A Back-end Developer",
               2020,
-              "Unity Developer",
+              "Web3 Developer",
               2020,
             ]}
             wrapper="div"
@@ -50,15 +50,19 @@ const Banner = () => {
           HTML, CSS, React.js, Next js, MongoDB, Express.js, and Node.js to
           create scalable and robust web applications.
 
-          I have over 3 years of experience in the industry and offer a variety of services, 
-          including Unity Education / game development, web development, and mobile app development.
+          I've worked as a Senior blockchain developer with 5 years of experience in React, Next.js, MongoDB, Web3, Solidity and Smart Contract.
+          I've developed many dApps, NFT market places, and games with blockchain.
+          I will show you some of my past and current projects to you.
+          I would be happier if you work with me, and I will start your project right now.
+          Hanks in advance.
+
           {/* I am a Front-end Developer. I am very passionate to my work and
           dedicated to explore New Tools And Technologies. */}
         </p>
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+            href=""
             target="blank"
           >
             <button className="primary-button">

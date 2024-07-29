@@ -10,7 +10,7 @@ const Footer = () => {
         className="w-full text-center p-6 bg-accent"
         style={{ backgroundColor: "#313131" }}
       >
-        <div className="flex items-center justify-center mb-6">
+        {/* <div className="flex items-center justify-center mb-6">
           <a
             className="inline-block mx-2"
             href="https://twitter.com/GilbertHutapeaa"
@@ -43,11 +43,11 @@ const Footer = () => {
           >
             <FaInstagram className="text-2xl text-pink-500" />
           </a>
-        </div>
+        </div> */}
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.fiverr.com/berthutapea"
+            href="https://www.fiverr.com/andresromero164"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.upwork.com/freelancers/~0171c0d54d5dea86ec"
+            href="https://www.upwork.com/freelancers/~01967df47449b18513"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,29 +63,29 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="http://freelancer.com/u/berthutapea"
+            href="https://www.freelancer.com/u/Goldmaster221"
             target="_blank"
             rel="noopener noreferrer"
           >
             Freelancer
           </a>
-          <a
+          {/* <a
             className="text-xl inline-bloc mx-6 text-neutral"
             href="https://themeforest.net/user/berthutapea"
             target="_blank"
             rel="noopener noreferrer"
           >
             ThemeForest
-          </a>
-          <a
+          </a> */}
+          {/* <a
             className="text-xl inline-bloc mx-6 text-neutral"
             href="https://remotehub.com/gilbert.hutapea"
             target="_blank"
             rel="noopener noreferrer"
           >
             RemoteHub
-          </a>
-          <a
+          </a> */}
+          {/* <a
             className="text-xl inline-bloc mx-6 text-neutral"
             href="https://dribbble.com/berthutapea"
             target="_blank"
@@ -100,7 +100,7 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             Resume
-          </a>
+          </a> */}
         </div>
 
         <div className="w-full h-[2px] bg-gray-600"></div>
@@ -109,11 +109,11 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="https://linkedin.com/in/gilberthutapea"
+              href=""
               className="text-primary hover:underline"
               target="blank"
             >
-              Yuki Amano
+              Andres Romero
             </a>
           </p>
         </div>

@@ -155,7 +155,7 @@ const Items = [
   },
   {
     id: 4,
-    mainImage: "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-2_vsab0u.png",
+    mainImage: "Tradebit.png",
     img: [
       "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-1_gywmlj.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1682772430/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/img-2_vsab0u.png",
@@ -268,18 +268,18 @@ const Items = [
   },
   {
     id: 6,
-    mainImage: "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
+    mainImage: "D1.png",
     img: [
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-1_gpiiro.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
-      "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-3_sk2hyn.png",
+      "D2.png",
+      "D3.png",
+      "D4.png",
     ],
     features: [
       "Mobile Responsive",
       "Beautiful Animations",
       "Rapid Controls",
       "High Score",
-      "Mario Background Music",
+      "Background Music",
       "Jump & Game Over Sound Effect",
     ],
     technologies: [
@@ -289,12 +289,12 @@ const Items = [
       "React Router",
       "React Redux",
     ],
-    title: "Mario Jump",
+    title: "Market Deliver B-Chain",
     description:
-      "Mario Jump is an endless running game inspired by the famous Google Chrome's T-Rex Dinosaur Game 🦖. The game is built entirely with ReactJS ⚛ and Redux Toolkit 🔧.",
+      "Swap lets you send money and make payments using your local currency at a rate decided by you. Sign up, fund your wallet and start sending money from your wallet to your peers, friends and family. I worked on its api integration, models, push notifications, front end pages on flutter",
     category: "game",
-    liveLink: "https://mariojumpp.vercel.app/",
-    codeLink: "https://github.com/berthutapea/mario-jump-game",
+    liveLink: "",
+    codeLink: "",
   },
   {
     id: 7,
